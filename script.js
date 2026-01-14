@@ -4,70 +4,70 @@ const quotes = [
     author: "Malcolm X",
     bgColor: "#FFD6A5",
     font: "'Georgia', serif",
-    image: "../images/malcom-x.jpg"
+    image: "images/malcom-x.jpg"
   },
   {
     text: "Go confidently in the direction of your dreams! Live the life you've imagined.",
     author: "Henry David Thoreau",
     bgColor: "#FBE7C6",
     font: "'Georgia', serif",
-    image: "../images/thoreau.jpg"
+    image: "images/thoreau.jpg"
   },
   {
     text: "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
     author: "Mother Teresa",
     bgColor: "#B4F8C8",
     font: "'Georgia', serif",
-    image: "../images/mother-teresa.jpg"
+    image: "images/mother-teresa.jpg"
   },
   {
     text: "All that we are is the result of what we have thought.",
     author: "Buddha",
     bgColor: "#A0E7E5",
     font: "'Georgia', serif",
-    image: "../images/buddha.jpg"
+    image: "images/buddha.jpg"
   },
   {
     text: "The most courageous act is still to think for yourself. Aloud.",
     author: "Coco Chanel",
     bgColor: "#FFAEBC",
     font: "'Courier New', monospace",
-    image: "../images/coco.jpg"
+    image: "images/coco.jpg"
   },
   {
     text: "Those who dare to fail miserably can achieve greatly.",
     author: "John F. Kennedy",
     bgColor: "#CDB4DB",
     font: "'Courier New', monospace",
-    image: "../images/jfk.jpg"
+    image: "images/jfk.jpg"
   },
   {
     text: "The fears are paper tigers. You can do anything you decide to do.",
     author: "Maya Angelou",
     bgColor: "#FFC8DD",
     font: "'Courier New', monospace",
-    image: "../images/maya.jpg"
+    image: "images/maya.jpg"
   },
   {
     text: "What we achieve inwardly will change outer reality.",
     author: "Plutarch",
     bgColor: "#E0BBE4",
     font: "'Courier New', monospace",
-    image: "../images/Plutarch.jpg"
+    image: "images/Plutarch.jpg"
   },
   {
     text: "There is nothing permanent except change.",
     author: "Heraclitus",
     bgColor: "#A0E7E5",
     font: "'Verdana', sans-serif",
-    image: "../images/heraclitus.jpg"
+    image: "images/heraclitus.jpg"
   },
   {
     text: "Life without love is like a tree without blossoms or fruit.",
     author: "Khalil Gibran",
     bgColor: "#B4F8C8",
     font: "'Verdana', sans-serif",
-    image: "../images/khalil.jpg"
+    image: "images/khalil.jpg"
   }
 ];
 
